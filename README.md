@@ -14,7 +14,7 @@ Análisis exploratorio de la distribución de candidaturas femeninas en las elec
 
 1. **Distribución general** – Candidatas por tipo de cargo (barras + gráfica de dona)
 2. **Cargo por partido** – Qué partidos postulan mujeres a cada cargo
-3. **Diputaciones MR vs RP** – Comparativo por partido
+3. **Diputaciones Mayoría Relativa vs Representación Proporcional** – Comparativo por partido
 4. **Presidencias municipales** – Candidatas por municipio
 5. **Conclusiones** – Hallazgos principales
 
