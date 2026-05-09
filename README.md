@@ -24,14 +24,5 @@ Análisis exploratorio de la distribución de candidaturas femeninas en las elec
 Python 3 · Pandas · Matplotlib · Seaborn · Jupyter Notebook
 ```
 
-## ▶️ Cómo ejecutar
-
-```bash
-git clone https://github.com/Annele1991/analisis-candidatas-aguascalientes
-cd analisis-candidatas-aguascalientes
-pip install pandas matplotlib seaborn jupyter
-jupyter notebook analisis_candidatas.ipynb
-```
-
 ---
 *Proyecto desarrollado por [Annele Aceves](https://github.com/Annele1991) · M&E Consultant*
